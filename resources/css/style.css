@@ -3,11 +3,42 @@ body {
   font-family: Verdana, sans-serif;
 }
 
-h1,
-h2 {
+h1 {
   color: white;
 }
 
-h3 {
+p {
   color: gray;
+  font-size: 21px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.header {
+  text-align: center
+}
+
+.header h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.video {
+  text-align: center
+}
+
+.personal, .soon {
+  text-align: center
+}
+
+.personal h1, .soon h1 {
+  font-size: 42px;
+  font-weight: 300
+}
+
+.footer {
+  text-align: right
 }
