@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+}
+
+h1,
+h2 {
+  color: white;
+}
+
+h3 {
+  color: gray;
+}
