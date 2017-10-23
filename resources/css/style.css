@@ -17,7 +17,10 @@ a {
   font-size: 16px;
 }
 
-.header {
+.header, 
+.video, 
+.personal, 
+.soon {
   text-align: center
 }
 
@@ -26,15 +29,8 @@ a {
   font-size: 50px;
 }
 
-.video {
-  text-align: center
-}
-
-.personal, .soon {
-  text-align: center
-}
-
-.personal h1, .soon h1 {
+.personal h1, 
+.soon h1 {
   font-size: 42px;
   font-weight: 300
 }
